@@ -2241,7 +2241,7 @@ button.btn1:hover{
 }
 @media (max-width:375px){
 	.top-nav {
-		width: 60%;
+		width: 50%;
 	}
 	.about-grid-info {
 		min-height: 134px;
