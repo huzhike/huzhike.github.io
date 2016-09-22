@@ -1,7 +1,0 @@
-@CHARSET "UTF-8";
-html,body{height:100%;margin:0;padding:0}
-ul,li{text-indent:0;text-decoration:none;margin:0;padding:0}
-img{border:0}
-/* body{color:#999;font:100%/18px helvetica, arial, sans-serif} */
-body{font-family: 'Oswald', sans-serif;font-size: 100%;}
-canvas{display:block;left:0;position:absolute;top:0;z-index:20}
